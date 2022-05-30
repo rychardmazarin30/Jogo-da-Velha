@@ -1,6 +1,8 @@
+# Libs 
 from tkinter import *
 from tkinter import ttk
 
+# Colors
 white = '#FFFFFF'
 darkBlack = '#333333'
 orange = '#fcc058'
@@ -12,10 +14,13 @@ red = '#c41212'
 know = "#fcfbf7"
 black = '#3b3b3b' 
 
+# Janela do app
 j = Tk()
 j.title("TIC-TAC-TOE")
 j.geometry('260x370')
 j.configure(bg=darkBlack)
+
+# Frames
 
 frame_cima = Frame(j, width=240, height=100, bg=black, relief='raised')
 frame_cima.grid(row=0, column=0, sticky=NW, padx=10, pady=10)
