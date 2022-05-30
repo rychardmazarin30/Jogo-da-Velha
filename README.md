@@ -6,7 +6,8 @@
 
 <h2>Jogando</h2>
 
-![o Jogo](https://user-images.githubusercontent.com/98194579/170899647-3743e444-5ce8-4dce-ae8f-89fdab226691.png)
+![o Jogo](https://user-images.githubusercontent.com/98194579/170899647-3743e444-5ce8-4dce-ae8f-89fdab226691.png)![jogando](https://user-images.githubusercontent.com/98194579/170900001-58f0a1fa-db58-424b-adee-a51c05fdb9ee.png)
 
-<p>O jogo é bem simples, jogado em uma melhor de cinco onde quem fizer mais pontos vence</p>  
+
+<p>O jogo é bem simples, assim que pressionar 'play', você é levado a essa tela onde o jogo deve começar, jogado em uma melhor de cinco onde quem fizer mais pontos vence</p>  
 
