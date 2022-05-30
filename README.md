@@ -24,5 +24,9 @@
 
 
 <p>Dado as cinco rodadas o jogo chega ao fim e o placar nos apresentará quem perdeu e quem ganhou, ou se houve empate.</p>
+<p>Caso queira jogar novamente, basta clicar em "Play" mais uma vez.</p>
+<p>Espero que goste, DIVIRTA-SE </p>
+
+<h4>Desenvolvido por Rychard Mazarin</h4>
 
 
