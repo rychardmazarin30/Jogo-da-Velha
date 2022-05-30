@@ -15,7 +15,7 @@
 
 ![Usuario X Win](https://user-images.githubusercontent.com/98194579/170900315-f0389a4b-c586-48e1-9396-1b9a25edf546.png)![Usuario O Win](https://user-images.githubusercontent.com/98194579/170900324-18a4c111-0bb0-419f-8b3c-3162ef530ac0.png)
 
-<p>Quando algum usuário X ou O vencer, é adicionado ao placar um ponto e aparece na tela o usuário que ganhou a rodada em questão.</p>
+<p>Quando algum usuário X ou O vencer, é adicionado ao placar um ponto e aparece na tela o usuário quem ganhou a rodada em questão.</p>
 <p>Para jogar novamente, basta clicar em 'Play again' que você é levado para a proxima rodada da melhor de cinco.</p>
 
 <h2>Game Over</h2>
